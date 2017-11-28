@@ -1,3 +1,3 @@
 # kottans_frontend
 
-Grate materials, very interesting.
+Greate materials, very interesting.
